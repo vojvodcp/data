@@ -1,0 +1,18 @@
+[{
+    "id": "timer1",
+    "state": "0",
+    "timerName": "Time until end of CSE 270e",
+    "doneTime": "32575871"
+},
+{
+    "id": "timer2",
+    "state": "0",
+    "timerName": "Time until start of spring semester",
+    "doneTime": "32575871"
+},
+{
+    "id": "timer3",
+    "state": "0",
+    "timerName": "Time until the midwestern championship competition",
+    "doneTime": "151376871"
+}]
